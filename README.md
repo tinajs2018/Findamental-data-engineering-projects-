@@ -1,2 +1,3 @@
-# Findamental-data-engineering-projects-
-data engineering projects 
+# FUndamental-data-engineering-projects-
+
+The data engineering projects repo is a collection of projects and code related to data engineering. It includes scripts, pipelines, and workflows that are designed to process, transform, and store large amounts of data. These projects cover a wide range of topics, including data ingestion, data modeling, data warehousing, data processing, and data analytics. The goal of this repo is to provide examples and inspiration for data engineers who are looking to build scalable and reliable data pipelines. It also serves as a learning resource for those who are new to data engineering or want to deepen their understanding of the field. The repo may include projects built using various technologies, such as Apache Kafka, Apache Spark, AWS, GCP, and more
